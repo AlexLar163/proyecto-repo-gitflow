@@ -1,3 +1,3 @@
 # proyecto-repo-gitflow
 Trabajo de Git flow
-realizado por Frank JlS
+realizado por Franklin Córdova
